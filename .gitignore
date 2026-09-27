@@ -26,3 +26,9 @@ Quests/quest7_20240613/data/
 
 
 
+
+# Local environments and generated Python/Jupyter files
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
